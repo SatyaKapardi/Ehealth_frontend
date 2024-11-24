@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Ehealth_frontend/static/css/main.1f5a70fc.chunk.css",
+    "main.js": "/Ehealth_frontend/static/js/main.a8a07955.chunk.js",
+    "main.js.map": "/Ehealth_frontend/static/js/main.a8a07955.chunk.js.map",
+    "runtime-main.js": "/Ehealth_frontend/static/js/runtime-main.6a61a46e.js",
+    "runtime-main.js.map": "/Ehealth_frontend/static/js/runtime-main.6a61a46e.js.map",
+    "static/js/2.731903cc.chunk.js": "/Ehealth_frontend/static/js/2.731903cc.chunk.js",
+    "static/js/2.731903cc.chunk.js.map": "/Ehealth_frontend/static/js/2.731903cc.chunk.js.map",
+    "index.html": "/Ehealth_frontend/index.html",
+    "precache-manifest.8f98accb34db59636e059606bd552abd.js": "/Ehealth_frontend/precache-manifest.8f98accb34db59636e059606bd552abd.js",
+    "service-worker.js": "/Ehealth_frontend/service-worker.js",
+    "static/css/main.1f5a70fc.chunk.css.map": "/Ehealth_frontend/static/css/main.1f5a70fc.chunk.css.map",
+    "static/js/2.731903cc.chunk.js.LICENSE.txt": "/Ehealth_frontend/static/js/2.731903cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a61a46e.js",
+    "static/js/2.731903cc.chunk.js",
+    "static/css/main.1f5a70fc.chunk.css",
+    "static/js/main.a8a07955.chunk.js"
+  ]
+}
