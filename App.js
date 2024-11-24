@@ -25,7 +25,7 @@ export default function App() {
 
   useEffect(() => {
     // Updated to use your Railway backend URL
-    fetch("https://ehealthbackend-production.up.railway.app/userInSession")
+    fetch("http://ehealthbackend-production.up.railway.app")
       .then(res => res.json())
       .then(res => {
         let string_json = JSON.stringify(res);
